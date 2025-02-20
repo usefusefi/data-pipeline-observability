@@ -25,3 +25,14 @@ This repository provides **production-ready implementations** for:
 ```bash
 git clone https://github.com/YOUR_USERNAME/data-pipeline-observability.git
 cd data-pipeline-observability
+```
+
+### 2️⃣ Run Monitoring Example
+```bash
+python code_examples/spark_opentelemetry.py
+```
+
+### 3️⃣ Start Jupyter Notebook
+```bash
+jupyter notebook notebooks/pipeline_observability.ipynb
+```
