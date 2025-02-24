@@ -8,7 +8,7 @@ This repository provides **production-ready implementations** for:
 ✅ **Automated data quality checks with Great Expectations**  
 ✅ **Alerting with PagerDuty & Grafana**  
 
-📖 **Read the Full Article on Medium:** [Link to Medium](#)  
+📖 **Read the Full Article on Medium:** [Link to Medium](https://medium.com/@usefusefi/data-pipeline-observability-monitoring-logging-and-alerting-using-opentelemetry-prometheus-14cfcf932f42)  
 
 ---
 
